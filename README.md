@@ -8,6 +8,7 @@ El presente pequeño proyecto mis conocimiento esenciales en el lenguaje y mis c
 
 
 --------------------------------------------ENGLISH-----------------------------------------------
+
 This git is a test of my knowledge of the Python programming language:
 1. It introduces the use of webscraping, a technique for obtaining unstructured data from the following web page: https://es.whoscored.com.
 2. Structured data on soccer matches and various international tournaments, this dataset has been obtained through the Kaggle platform, data manipulation, cleaning, transformation and visualization of some data is shown.
