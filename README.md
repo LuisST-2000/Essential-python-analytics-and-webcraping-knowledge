@@ -5,6 +5,7 @@ El presente git es puesta a prueba mis conocimientos en el lenguaje de programac
 2. Datos estructurados sobre partidos de futbol y distintos torneos internacionales, este dataset se ha obtenido a traves de la plataforma Kaggle, se muestra la manipulación de datos, limpieza, transformación y visualización de algunos datos.
 
 El presente pequeño proyecto mis conocimiento esenciales en el lenguaje y mis capacidades para poder resolver este tipo de desafios propuestos por mí mismo y con la finalidad de poder emplearlos en algún entorno real con un equipo de trabajo.
+
 Si bien el proyecto de webscraping(webscrap.py) no logra correrse en un entorno virtual como Google Colab, este logra tener un buen funcionamiento en entorno local colocando el archivo webdriver en la ruta especifica.
 
 --------------------------------------------ENGLISH-----------------------------------------------
