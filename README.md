@@ -7,7 +7,7 @@ El presente git es puesta a prueba mis conocimientos en el lenguaje de programac
 El presente pequeño proyecto mis conocimiento esenciales en el lenguaje y mis capacidades para poder resolver este tipo de desafios propuestos por mí mismo y con la finalidad de poder emplearlos en algún entorno real con un equipo de trabajos.
 
 
-#English
+--------------------------------------------ENGLISH-----------------------------------------------
 This git is a test of my knowledge of the Python programming language:
 1. It introduces the use of webscraping, a technique for obtaining unstructured data from the following web page: https://es.whoscored.com.
 2. Structured data on soccer matches and various international tournaments, this dataset has been obtained through the Kaggle platform, data manipulation, cleaning, transformation and visualization of some data is shown.
