@@ -4,7 +4,7 @@ El presente git es puesta a prueba mis conocimientos en el lenguaje de programac
 1. Se presenta el uso de la tecnica de webscraping, tecnica para la obtención de datos no estructurados de la siguiente página web: https://es.whoscored.com.
 2. Datos estructurados sobre partidos de futbol y distintos torneos internacionales, este dataset se ha obtenido a traves de la plataforma Kaggle, se muestra la manipulación de datos, limpieza, transformación y visualización de algunos datos.
 
-El presente pequeño proyecto mis conocimiento esenciales en el lenguaje y mis capacidades para poder resolver este tipo de desafios propuestos por mí mismo y con la finalidad de poder emplearlos en algún entorno real con un equipo de trabajos.
+El presente pequeño proyecto mis conocimiento esenciales en el lenguaje y mis capacidades para poder resolver este tipo de desafios propuestos por mí mismo y con la finalidad de poder emplearlos en algún entorno real con un equipo de trabajo.
 
 
 --------------------------------------------ENGLISH-----------------------------------------------
