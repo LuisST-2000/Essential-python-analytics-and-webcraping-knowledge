@@ -15,3 +15,5 @@ This git is a test of my knowledge of the Python programming language:
 2. Structured data on soccer matches and various international tournaments, this dataset has been obtained through the Kaggle platform, data manipulation, cleaning, transformation and visualization of some data is shown.
 
 The present small project my essential knowledge in the language and my capacities to be able to solve this type of challenges proposed by myself and in order to be able to use them in some real environment with a work team.
+
+Although the webscraping project (webscrap.py) does not run in a virtual environment such as Google Colab, it works fine in a local environment by placing the webdriver file in the specified path.
